@@ -1,4 +1,6 @@
-import pygame, sys, random
+import pygame
+import random
+import sys
 
 
 class Block(pygame.sprite.Sprite):
@@ -101,8 +103,10 @@ class Opponent(Block):
         self.constrain()
 
     def constrain(self):
-        if self.rect.top <= 0: self.rect.top = 0
-        if self.rect.bottom >= screen_height: self.rect.bottom = screen_height
+        if self.rect.top <= 0:
+            self.rect.top = 0
+        if self.rect.bottom >= screen_height:
+            self.rect.bottom = screen_height
 
 
 class GameManager:

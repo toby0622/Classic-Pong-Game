@@ -1,4 +1,6 @@
-import pygame, sys, random
+import pygame
+import random
+import sys
 
 
 def ball_animation():
