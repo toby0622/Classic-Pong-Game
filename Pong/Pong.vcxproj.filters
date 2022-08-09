@@ -18,6 +18,9 @@
     <ClCompile Include="Pong.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bat.h">
