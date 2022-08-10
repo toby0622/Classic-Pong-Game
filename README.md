@@ -10,13 +10,5 @@
 ## Screenshots
 
 <p align="center">
-  <img src="?raw=true" alt="Screenshot 1"/>
-</p>
-
-<p align="center">
-  <img src="?raw=true" alt="Screenshot 2"/>
-</p>
-
-<p align="center">
-  <img src="?raw=true" alt="Screenshot 3"/>
+  <img src="https://github.com/toby0622/Classic-Pong-Game/blob/main/Screenshots/ss1.png?raw=true" alt="Screenshot 1"/>
 </p>
